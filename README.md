@@ -1,6 +1,6 @@
-# 🚀 Make It heavy
+# MAO Framework
 
-A Python framework to emulate **Grok heavy** functionality using a powerful multi-agent system. Built on OpenRouter's API, Make It heavy delivers comprehensive, multi-perspective analysis through intelligent agent orchestration.
+A Python framework to emulate **Grok heavy** functionality using a powerful multi-agent system. Built on OpenRouter's API, this delivers comprehensive, multi-perspective analysis through intelligent agent orchestration.
 
 ## 🌟 Features
 
@@ -66,7 +66,7 @@ User: Research the latest developments in AI and summarize them
 Agent: [Uses search tool, analyzes results, provides summary]
 ```
 
-### Grok heavy Mode (Multi-Agent Orchestration)
+### Multi-Agent Orchestration
 
 Emulate Grok heavy's deep analysis with 4 parallel intelligent agents:
 
@@ -302,7 +302,7 @@ synthesis_agent = OpenRouterAgent(silent=False)  # Enable debug output
 ## 📁 Project Structure
 
 ```
-make it heavy/
+mao/
 ├── main.py                 # Single agent CLI
 ├── make_it_heavy.py         # Multi-agent orchestrator CLI  
 ├── agent.py                # Core agent implementation
@@ -350,6 +350,3 @@ See [LICENSE](LICENSE) file for full details.
 uv run make_it_heavy.py
 ```
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Doriandarko/make-it-heavy&type=Date)](https://www.star-history.com/#Doriandarko/make-it-heavy&Date)
