@@ -24,7 +24,7 @@ A Python framework to emulate **Grok heavy** functionality using a powerful mult
 
 1. **Clone and setup environment:**
 ```bash
-git clone <https://github.com/Doriandarko/make-it-heavy.git>
+git clone <https://github.com/vishal-iit-aiml/MAO.git>
 cd "mao"
 
 # Create virtual environment with uv
