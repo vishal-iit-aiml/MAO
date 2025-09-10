@@ -25,7 +25,7 @@ A Python framework to emulate **Grok heavy** functionality using a powerful mult
 1. **Clone and setup environment:**
 ```bash
 git clone <https://github.com/Doriandarko/make-it-heavy.git>
-cd "make it heavy"
+cd "mao"
 
 # Create virtual environment with uv
 uv venv
@@ -82,13 +82,13 @@ uv run make_it_heavy.py
 
 **Example Flow:**
 ```
-User Query: "Who is Pietro Schirano?"
+User Query: "Who is Vishal?"
 
 AI Generated Questions:
-- Agent 1: "Research Pietro Schirano's professional background and career history"
-- Agent 2: "Analyze Pietro Schirano's achievements and contributions to technology"  
-- Agent 3: "Find alternative perspectives on Pietro Schirano's work and impact"
-- Agent 4: "Verify and cross-check information about Pietro Schirano's current role"
+- Agent 1: "Research Vishal's professional background and career history"
+- Agent 2: "Analyze Vishal's achievements and contributions to technology"  
+- Agent 3: "Find alternative perspectives on Vishal's work and impact"
+- Agent 4: "Verify and cross-check information about Vishal's current role"
 
 Result: Grok heavy-style comprehensive analysis combining all agent perspectives
 ```
@@ -328,19 +328,13 @@ mao/
 4. Test with both single and multi-agent modes
 5. Submit a pull request
 
-## 📝 License
-
-MIT License with Commercial Attribution Requirement
-
-**For products with 100K+ users**: Please include attribution to Pietro Schirano and mention the "Make It heavy" framework in your documentation or credits.
-
-See [LICENSE](LICENSE) file for full details.
 
 ## 🙏 Acknowledgments
 
 - Built with [OpenRouter](https://openrouter.ai/) for LLM API access
 - Uses [uv](https://github.com/astral-sh/uv) for Python package management
 - Inspired by **Grok heavy** mode and advanced multi-agent AI systems
+- Inspired by Pietro's
 
 ---
 
